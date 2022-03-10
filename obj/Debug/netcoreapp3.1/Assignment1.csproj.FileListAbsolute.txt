@@ -1,0 +1,13 @@
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.deps.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.dev.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.dll
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.pdb
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.csproj.AssemblyReference.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfoInputs.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfo.cs
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.csproj.CoreCompileInputs.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.dll
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.pdb
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/Assignments/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.genruntimeconfig.cache

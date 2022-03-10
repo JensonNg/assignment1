@@ -1,0 +1,13 @@
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.csproj.AssemblyReference.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.AssemblyInfoInputs.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.AssemblyInfo.cs
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.csproj.CoreCompileInputs.cache
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/bin/Debug/netcoreapp3.1/MalmoUniversity.deps.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/bin/Debug/netcoreapp3.1/MalmoUniversity.runtimeconfig.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/bin/Debug/netcoreapp3.1/MalmoUniversity.runtimeconfig.dev.json
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/bin/Debug/netcoreapp3.1/MalmoUniversity.dll
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/bin/Debug/netcoreapp3.1/MalmoUniversity.pdb
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.dll
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.pdb
+/Users/erikdao/Library/CloudStorage/OneDrive-Södertörnuniversity/MalmoUniversity/MalmoUniversity/obj/Debug/netcoreapp3.1/MalmoUniversity.genruntimeconfig.cache
